@@ -1,0 +1,78 @@
+h1     {
+		color: greenyellow; 
+		font-type: helvectica;
+		font-size: 70px}
+		
+h3.pink {
+		color: pink;}
+		
+h3.cyan {
+		color: cyan;}
+		
+.underline{
+		text-decoration: underline  green;
+		}
+.imagec{
+		padding-left: auto;
+		padding-right: auto;
+		border: 2px;
+		border-bottom-color: cyan;
+		border-radius: 50%;
+		}
+.table1{
+		background-image: Image/web1.png;
+		
+}
+.table2{
+		background-color: green;
+}	
+.checked{
+	color: orange;
+	
+}
+.padd{
+	padding-left: 30px;
+}
+.bg-img {
+	/* The image used */
+	background-image: ("rahul.JPG");
+	background-color: rgb(23, 216, 184);
+  
+	min-height: 380px;
+  
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+  
+	/* Needed to position the navbar */
+	position: relative;
+  }
+  
+  /* Position the navbar container inside the image */
+  .container {
+	position: absolute;
+	margin: 20px;
+	width: auto;
+  }
+  
+  /* The navbar */
+  .topnav {
+	overflow: hidden;
+	background-color: #333;
+  }
+  
+  /* Navbar links */
+  .topnav a {
+	float: left;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+  }
+  
+  .topnav a:hover {
+	background-color: #ddd;
+	color: black;
+  }
