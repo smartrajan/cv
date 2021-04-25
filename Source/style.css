@@ -1,5 +1,9 @@
 #grad {
     background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);
+	height: 100%;
+	margin: 0;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 
 #wrapper {
 		display: -moz-flex;
